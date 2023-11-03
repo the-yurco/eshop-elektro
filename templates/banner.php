@@ -46,10 +46,7 @@
 									});
 							</script>
 					</div>
-					<div class="clearfix"> </div>
 			</div>
-			<div class="shop">
-					<a href="single.php">NÁKUP KOLEKCE NYNÍ</a>
-			</div>
+
 	</div>
 </div>
